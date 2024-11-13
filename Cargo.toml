@@ -1,0 +1,14 @@
+[package]
+name = "TNPL_Rust"
+version = "1.0.0"
+edition = "2021"
+description = "4 utilites in one"
+authors = ["MaximDev <main@maximdev.ru>"]
+license = "MIT"
+
+[dependencies]
+rand = "0.8"
+sysinfo = "0.32"
+walkdir = "2.3"
+sys-locale = "0.3.2"
+crossterm = "0.26"
